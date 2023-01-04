@@ -4,7 +4,7 @@
   "packageRules": [
     {
       "matchConfidence": ["high", "very high"],
-      "labels": ['high Confidence'],
+      "labels": ["high Confidence"],
       "groupName": "high merge confidence"
     },
     {
