@@ -8,7 +8,7 @@
       "groupName": "high merge confidence"
     },
     {
-      "matchConfidence": ["low"],
+      "matchConfidence": ["low", "neutral"],
       "enabled": false
     }
   ],
