@@ -8,10 +8,6 @@
       "groupName": "high merge confidence"
     },
     {
-      "matchConfidence": ["neutral"],
-      "labels": ['neutral Confidence'],
-    },
-    {
       "matchConfidence": ["low"],
       "enabled": false
     }
